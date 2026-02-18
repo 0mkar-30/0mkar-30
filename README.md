@@ -34,7 +34,7 @@ Here are some technologies I work with:
 
 ## 📂 Experience
 
-## Full Stack Java Developer Intern — Astrics Technocart
+## Full Stack Java Developer Intern — Asterisc Technocrat 
 
 📅 July 2025 – December 2025 (On-site)
 **Tech Used:** Java, Spring Boot, Hibernate, MySQL, JavaScript, Git, GitHub
