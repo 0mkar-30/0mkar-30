@@ -15,7 +15,7 @@ Passionate about building scalable applications, writing clean code, and solving
 * 🌱 Learning: **Advanced Spring Boot, Microservices, Cloud Deployment, and React**
 * 💬 Ask me about: **Java • Spring Boot • REST APIs • MySQL • Full Stack Development**
 * 📫 How to reach me: **[omkarbagmare49@gmail.com](mailto:your.email@example.com)**
-* ⚡ Fun fact: **Something interesting about you**
+* ⚡ Fun fact: **Something interesting about me**
 
 ---
 
