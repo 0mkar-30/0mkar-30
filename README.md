@@ -57,7 +57,7 @@ Here are some technologies I work with:
 
 ## 🌐 Connect With Me
 
-*🔗LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/omkar-bagmare)
+*🔗LinkedIn: [https://linkedin.com/in/omkar bagmare](https://linkedin.com/in/omkar-bagmare)
 
 
 ---
